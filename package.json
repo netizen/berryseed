@@ -1,0 +1,10 @@
+{
+    "name": "berryseed",
+    "private": true,
+    "scripts": {
+        "build": "yarn workspaces foreach run build"
+    },
+    "workspaces": [
+        "packages/*"
+    ]
+}

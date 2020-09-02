@@ -1,0 +1,1 @@
+gen_enforced_dependency(WorkspaceCwd, 'moment', null, _).
